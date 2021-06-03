@@ -266,7 +266,7 @@ ASIO_DECL address_v6 make_address_v6(const char* str);
 ASIO_DECL address_v6 make_address_v6(const char* str,
     asio::error_code& ec) ASIO_NOEXCEPT;
 
-/// Createan IPv6 address from an IP address string.
+/// Create an IPv6 address from an IP address string.
 /**
  * @relates address_v6
  */
